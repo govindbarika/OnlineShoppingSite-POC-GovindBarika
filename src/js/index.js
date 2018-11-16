@@ -41,6 +41,8 @@ $.getJSON("db.json", function(data) {
     })
 
 
+
+
     productDetails.innerHTML += `<div class="row">
     <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
       <h6 style="padding-top: 50px;"
@@ -115,7 +117,7 @@ $.getJSON("db.json", function(data) {
     </div> 
 </div>
 <div /*style="padding-right: 200px;"*/  class="col-xs-12">
-    <p class="text-right terms"> <span class="glyphicon glyphicon-lock"></span><img class="logoImgClass" src="src/images/secure.jpg" alt="Secure lock image"> Secure checkout. Shopping is always safe & secure</p>
+    <p class="text-right terms"> <span class="glyphicon glyphicon-lock"></span><img class="logoImgClass" src="src/images/secureKey.jpg" alt="Secure lock image"> Secure checkout. Shopping is always safe & secure</p>
 </div>  `
     $(".cart_edit").click(function(e) {
         console.log("Click Cart - " + $(e.currentTarget).parent().parent().parent().find('.siz').text());
