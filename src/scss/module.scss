@@ -6,3 +6,34 @@
         justify-content: space-between;
     }
 }
+
+
+@media (max-width: 500px) {
+    
+    .shopping-cart {        
+        margin: 0;        
+        padding-top: 20px;        
+        border-top: 1px solid lightgray;        
+    }    
+
+
+    .product-details {        
+        float: none;        
+        margin-bottom: 10px;        
+        width: auto;        
+    }
+        
+    .product-price {    
+        clear: both;    
+        width: 70px;    
+    }
+    
+    .product-quantity {    
+        width: 100px;    
+        input {    
+        margin-left: 20px;    
+        }       
+    }
+}
+
+    
