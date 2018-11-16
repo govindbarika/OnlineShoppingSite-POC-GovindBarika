@@ -1,0 +1,34 @@
+{
+    "ShoppingBag": [{
+            "Name": "SOLID GREEN COTTON TSHIRT",
+            "Image1": "../src/images/TShirt1.jpg",
+            "Image2": "../src/images/TShirt11.jpg",
+            "ProdCode": "SGCT11111",
+            "Size": "L",
+            "Quantity": "2",
+            "Price": "40.00",
+            "Color": "Blue"
+        },
+        {
+            "Name": "PINK RAINBOW PRINT GIRLS TEE",
+            "Image1": "../src/images/TShirt2.jpg",
+            "Image2": "../src/images/TShirt22.jpg",
+            "ProdCode": "PRPGT22222",
+            "Size": "S",
+            "Quantity": "3",
+            "Price": "10.00",
+            "Color": "Gray"
+        },
+        {
+            "Name": "BLUE FLOWER PATTERN SHIRT",
+            "Image1": "../src/images/TShirt3.jpg",
+            "Image2": "../src/images/TShirt33.jpg",
+            "ProdCode": "BFPS33333",
+            "Size": "XL",
+            "Quantity": "2",
+            "Price": "20.00",
+            "Color": "Blue"
+        }
+
+    ]
+}

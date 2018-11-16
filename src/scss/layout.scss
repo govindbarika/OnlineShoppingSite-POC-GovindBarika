@@ -1,0 +1,37 @@
+#productDetails {
+    border-bottom: 1px solid #ccc;
+    padding: 1rem 0;
+    position: relative;
+}
+
+.item {
+    display: flex;
+}
+
+.remove {
+    margin-top: 100px;
+}
+
+.ruler {
+    border-width: thick;
+    border-color: black;
+}
+
+.shopping-cart {
+    display: flex;
+    justify-content: space-around;
+}
+
+.itemDetails {
+    display: flex;
+}
+
+.ItemSize {
+    margin-right: 120px;
+    margin-left: 62px;
+}
+
+.ItemQty {
+    margin-right: 120px;
+}
+
